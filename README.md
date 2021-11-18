@@ -1,5 +1,8 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dslvd&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
+
 ### Hi there 👋
 
+![dacord](https://discord.c99.nl/widget/theme-4/713573570617278564.png)
 <!--
 **dslvd/dslvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
