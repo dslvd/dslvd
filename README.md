@@ -2,7 +2,18 @@
 
 ### Hi there 👋
 
+- 😄 Fun fact: I do all this stuff for fun...
+
+
+# Contact Me:
+
 ![dacord](https://discord.c99.nl/widget/theme-4/713573570617278564.png)
+
+- Discord: [dsolved#0649](https://discord.com/users/713573570617278564)
+- Discord Server: [dsolved](https://discord.gg/8zhz9SnTT9)
+- Github: [dslvd](https://github.com/dslvd)
+- Email: [contactdslvd](mailto:contactdslvd@gmail.com) 
+
 <!--
 **dslvd/dslvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
