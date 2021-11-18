@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dslvd&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
 
-### Hi there 👋
+# Hi there 👋
 
 - 😄 Fun fact: I do all this stuff for fun...
 
 
-# Contact Me:
+### Contact Me:
 
 ![dacord](https://discord.c99.nl/widget/theme-4/713573570617278564.png)
 
