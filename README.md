@@ -1,5 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dslvd&label=Profile%20views&color=0e75b6&style=flat" alt="nadirabbas" /> </p>
 
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=dslvd&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+
 # Hi there 👋
 
 - 😄 Fun fact: I do all this stuff for fun...
