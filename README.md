@@ -10,7 +10,7 @@
 
 ![dacord](https://discord.c99.nl/widget/theme-4/713573570617278564.png)
 
-- Discord: [dsolved#0649](https://discord.com/users/713573570617278564)
-- Discord Server: [dsolved](https://discord.gg/8zhz9SnTT9)
+- Discord: [dslv#1111](https://discord.com/users/713573570617278564)
+- Discord Server: [dslv](https://discord.gg/8zhz9SnTT9)
 - Github: [dslvd](https://github.com/dslvd)
-- Email: [contactdslvd](mailto:contactdslvd@gmail.com) 
+- Email: [contactdslvd](mailto:hi@dslvd.com) 
