@@ -13,4 +13,4 @@
 - Discord: [dslv#1111](https://discord.com/users/713573570617278564)
 - Discord Server: [dslv](https://discord.gg/8zhz9SnTT9)
 - Github: [dslvd](https://github.com/dslvd)
-- Email: [contactdslvd](mailto:hi@dslvd.com) 
+- Email: [hi@dslvd.com](mailto:hi@dslvd.com) 
