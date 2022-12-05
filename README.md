@@ -4,9 +4,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dslvd&label=Profile%20views&color=000000&style=flat" alt="nadirabbas" /> </p>
 
-# Hi there 👋
-
-- 😄 Fun fact: I do all this stuff for fun...
+# Hi👋
 
 ### Contact Me:
 
